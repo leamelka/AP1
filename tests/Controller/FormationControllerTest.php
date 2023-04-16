@@ -14,7 +14,7 @@ use Symfony\Component\HttpFoundation\Response;
  * Test Fonctionnel
  * Description of FormationControllerTest
  *
- * @author uu0✿
+ * @author leamelka
  */
 class FormationControllerTest extends WebTestCase{
     

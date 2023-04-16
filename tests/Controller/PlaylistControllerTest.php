@@ -14,7 +14,7 @@ use Symfony\Component\HttpFoundation\Response;
  * Test Fonctionnel
  * Description of PlaylistControllerTest
  *
- * @author uu0✿
+ * @author leamelka
  */
 class PlaylistControllerTest extends WebTestCase{
     /**

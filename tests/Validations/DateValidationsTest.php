@@ -11,7 +11,7 @@ use Symfony\Component\Validator\Validator\ValidatorInterface;
  * Test d'Intégration
  * Contrôle si la date de publication n'est pas postérieure à ajd lors de l'ajout/édition d'une formation
  *
- * @author uu0✿
+ * @author leamelka
  */
 class DateValidationsTest extends KernelTestCase{
 

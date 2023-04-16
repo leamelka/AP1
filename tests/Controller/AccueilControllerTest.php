@@ -9,7 +9,7 @@ use Symfony\Component\HttpFoundation\Response;
  * Test Fonctionnel
  * Description of AccueilControllerTest
  *
- * @author uu0✿
+ * @author leamelka
  */
 class AccueilControllerTest extends WebTestCase {
     /**

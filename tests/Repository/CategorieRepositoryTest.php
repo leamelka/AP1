@@ -16,7 +16,7 @@ use Symfony\Bundle\FrameworkBundle\Test\KernelTestCase;
  * Description of CategorieRepositoryTest
  * Contrôler toutes les méthodes ajoutées dans les classes Repository (pour cela, créer une BDD de test)
  *
- * @author uu0✿
+ * @author leamelka
  */
 class CategorieRepositoryTest extends KernelTestCase{
     
